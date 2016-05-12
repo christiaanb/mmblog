@@ -165,6 +165,7 @@ DEPENDENCIES
   middleman-deploy
   middleman-livereload
   neat
+  nokogiri
 
 BUNDLED WITH
    1.12.3

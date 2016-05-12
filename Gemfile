@@ -17,3 +17,5 @@ gem 'neat'
 gem 'bitters'
 
 gem "jquery-middleman"
+
+gem 'nokogiri'
