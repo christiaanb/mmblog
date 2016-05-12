@@ -11,3 +11,7 @@ gem "builder", "~> 3.0"
 gem 'middleman-livereload'
 
 gem "middleman-deploy"
+
+gem 'bourbon'
+gem 'neat'
+gem 'bitters'
