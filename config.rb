@@ -109,3 +109,5 @@ activate :deploy do |deploy|
   deploy.branch = 'gh-pages'
   deploy.build_before = true
 end
+
+set :relative_links, true
