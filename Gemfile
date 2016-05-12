@@ -15,3 +15,5 @@ gem "middleman-deploy"
 gem 'bourbon'
 gem 'neat'
 gem 'bitters'
+
+gem "jquery-middleman"
