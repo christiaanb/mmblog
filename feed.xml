@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-05-12T14:10:00+02:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>My second post for the second time</title>
+    <link rel="alternate" href="http://blog.url.com/2016/05/12/my-second-post-for-the-second-time.html"/>
+    <id>http://blog.url.com/2016/05/12/my-second-post-for-the-second-time.html</id>
+    <published>2016-05-12T14:10:00+02:00</published>
+    <updated>2016-05-12T14:12:14+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Blanditiis delectus placeat libero ducimus illo et qui commodi velit ad est nostrum inventore. A id qui eos alias veritatis ut. Inventore maxime odio et dicta numquam. Ea magni amet repellat iste voluptatibus consequatur ipsum ad quidem consequatur et enim iure. Qui magnam doloremque possimus&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Wonderfull articles</title>
+    <link rel="alternate" href="http://blog.url.com/2016/05/12/wonderfull-articles.html"/>
+    <id>http://blog.url.com/2016/05/12/wonderfull-articles.html</id>
+    <published>2016-05-12T14:10:00+02:00</published>
+    <updated>2016-05-12T15:16:58+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Ut quia distinctio occaecati dicta qui aut minus non facere aperiam cumque voluptatem non. Voluptatem adipisci provident vitae. Ea dignissimos harum veritatis qui voluptatem adipisci a reiciendis harum eius voluptates consectetur dolores. Perspiciatis rerum animi veritatis vel facilis doloribus qui et quod laborum accusantium laborum enim beatae. Temporibus qui ea culpa consequuntur temporibus quis consequatur pariatur dolore et cupiditate distinctio&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Your fancy title</title>
+    <link rel="alternate" href="http://blog.url.com/2016/05/12/your-fancy-title.html"/>
+    <id>http://blog.url.com/2016/05/12/your-fancy-title.html</id>
+    <published>2016-05-12T14:10:00+02:00</published>
+    <updated>2016-05-12T14:12:18+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Voluptatibus dicta autem rerum. Aut dicta id sit explicabo sed. Et autem culpa exercitationem vel aspernatur laborum libero earum in itaque fuga velit ullam ad. Et animi officia similique dolorem qui cum cupiditate tenetur. Sit earum quam placeat molestiae perspiciatis fugiat nemo esse velit aperiam velit et quos&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>My awesome 3rd article</title>
+    <link rel="alternate" href="http://blog.url.com/2016/05/12/my-awesome-3rd-article.html"/>
+    <id>http://blog.url.com/2016/05/12/my-awesome-3rd-article.html</id>
+    <published>2016-05-12T13:37:00+02:00</published>
+    <updated>2016-05-12T13:44:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!
+Omnis sed laboriosam aperiam minima eaque quibusdam minus possimus soluta pariatur. Ea sed officia est error iusto facere dolorem nihil nam fugit. Et temporibus eius enim vel itaque enim doloremque veritatis molestiae adipisci. Aliquid sit fuga dolores quia doloribus libero fuga beatae quod nulla. Officia culpa nostrum quia at numquam dolorum in labore odio&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Example Article</title>
+    <link rel="alternate" href="http://blog.url.com/2012/01/01/01-01-example-article.html"/>
+    <id>http://blog.url.com/2012/01/01/01-01-example-article.html</id>
+    <published>2012-01-01T01:00:00+01:00</published>
+    <updated>2016-05-12T13:44:01+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!
+Omnis enim in laborum aliquam nulla numquam blanditiis ut enim. Voluptatem voluptas accusantium molestiae molestiae fugit consequatur omnis enim consequatur voluptatem earum soluta. Maiores facere voluptas odit voluptatum nesciunt accusantium. Quo eveniet voluptatem consequuntur quo ea reprehenderit animi rem eos qui et optio itaque. Impedit natus vitae et&lt;/p&gt;
+</content>
+  </entry>
+</feed>
