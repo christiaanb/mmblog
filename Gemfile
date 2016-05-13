@@ -19,3 +19,5 @@ gem 'bitters'
 gem "jquery-middleman"
 
 gem 'nokogiri'
+
+gem 'middleman-autoprefixer'

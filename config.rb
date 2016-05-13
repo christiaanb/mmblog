@@ -111,3 +111,5 @@ activate :deploy do |deploy|
 end
 
 set :relative_links, true
+
+activate :autoprefixer
